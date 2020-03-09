@@ -1,0 +1,44 @@
+{
+    "produtos": [
+        {
+            "ïd": 1,
+            "nome": "Mouse Microsoft",
+            "valor": 15.90,
+            "promocao": false,
+            "valorPromo": 0,
+            "imagem": "mouse.jpg"
+        },
+        {
+            "ïd": 2,
+            "nome": "Teclado Microsoft",
+            "valor": 30.00,
+            "promocao": false,
+            "valorPromo": 0,
+            "imagem": "teclado.jpg"
+        },
+        {
+            "ïd": 3,
+            "nome": "Monitor Samsung",
+            "valor": 250.00,
+            "promocao": false,
+            "valorPromo": 0,
+            "imagem": "monitor.jpg"
+        },
+        {
+            "ïd": 4,
+            "nome": "Notebook ASUS",
+            "valor": 3000.00,
+            "promocao": false,
+            "valorPromo": 0,
+            "imagem": "notebook.jpg"
+        },
+        {
+            "ïd": 5,
+            "nome": "Notebook Avell",
+            "valor": 7000.00,
+            "promocao": true,
+            "valorPromo": 6000.00,
+            "imagem": "avell.jpg"
+        }
+    ]
+}
